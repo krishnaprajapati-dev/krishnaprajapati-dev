@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there! 👋 I'm Krishna Prajapati
 
-<!--
-**krishnaprajapati-dev/krishnaprajapati-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Data Science Enthusiast
 
-Here are some ideas to get you started:
+I'm a first-year B.Tech student in Computer Science & Engineering (Data Science) at MIET Meerut.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building software, solving problems, and continuously learning new technologies.
+
+---
+
+## 🚀 Currently Learning
+
+- C Programming
+- Python
+- Git & GitHub
+- Data Structures & Algorithms
+
+---
+
+## 🎯 My Goals
+
+- Become a skilled Software Developer
+- Build real-world projects
+- Contribute to Open Source
+- Secure an internship at a top tech company
+- Keep learning every day
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/in/krishna-prajapati-5186a1425?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+Thanks for visiting my profile! ⭐
